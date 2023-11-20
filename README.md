@@ -154,8 +154,10 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
+![IMG_20231120_103712](https://github.com/Srinixx/slot--3/assets/132982592/d9d91fb9-93f0-414f-9aa9-e9e8ad3d8667)
 
-![WhatsApp Image 2023-11-04 at 09 36 20_1b9d8460](https://github.com/Srinixx/slot--3/assets/132982592/a5f2ad4e-943f-41b6-b163-6d5473fac0ee)
+![image](https://github.com/Srinixx/slot--3/assets/132982592/614d4c78-65d3-4dbe-9b16-51e1379ab671)
+
 
 
 
